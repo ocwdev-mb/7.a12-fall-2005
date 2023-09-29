@@ -1,0 +1,45 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Structural Biology"
+    ]
+  ],
+  "legacy_uid": "ce20e02a-16cd-12c3-1903-d62cd07491ca",
+  "instructors": {
+    "content": [
+      "38e986cf-d667-1314-1fa4-24521cbb173c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f0b11184-d1ca-e25b-4133-29e174abb589",
+    "website": "7-a12-freshman-seminar-structural-basis-of-genetic-material-nucleic-acids-fall-2005"
+  },
+  "course_title": "Freshman Seminar: Structural Basis of Genetic Material: Nucleic Acids",
+  "course_description": "Since the discovery of the structure of the DNA double helix in 1953 by Watson and Crick, the information on detailed molecular structures of DNA and RNA, namely, the foundation of genetic material, has expanded rapidly. This discovery is the beginning of the \"Big Bang\" of molecular biology and biotechnology. In this seminar, students discuss, from a historical perspective and current developments, the importance of pursuing the detailed structural basis of genetic materials.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.A12",
+  "course_image_thumbnail": {
+    "content": "21bdd62c-625b-4861-f5e1-229527786c6a",
+    "website": "7-a12-freshman-seminar-structural-basis-of-genetic-material-nucleic-acids-fall-2005"
+  },
+  "learning_resource_types": [],
+  "site_uid": "f637e38c-45df-4228-afc1-a8f4d87b90d4",
+  "site_short_id": "7.a12-fall-2005",
+  "title": "Course Metadata"
+}
